@@ -2,6 +2,7 @@ package org.example.core;
 
 import jakarta.annotation.PostConstruct;
 import org.example.plugin.Plugin;
+import org.springframework.context.annotation.Description;
 import org.springframework.stereotype.Component;
 
 import java.io.IOException;
@@ -15,6 +16,7 @@ import java.util.List;
 import java.util.ServiceLoader;
 
 @Component
+@Description("Scan plugin in folder 'plugins' and load plugins")
 public class PluginLoader {
 
     @PostConstruct

@@ -35,17 +35,24 @@ Trong đó:
 
 ```https://github.com/thinhotwp1/Microkernel-Architecture```
 
-<h2>🔹4. Ưu điểm của Microkernel (Plugin) Architecture ✅</h2>
+<h2>🔹4. Kết quả chạy demo Microkernel Architecture</h2>
+
+-> Plugins sẽ được nạp vào app-core và chạy các hàm đã implement:
+
+![image](https://github.com/user-attachments/assets/960031ad-e137-409a-8f82-35500e091656)
+
+
+<h2>🔹5. Ưu điểm của Microkernel (Plugin) Architecture ✅</h2>
 
 ![image](https://github.com/user-attachments/assets/657b42f7-e6fc-41de-85ae-e868d538d37e)
 
 
-<h2>🔹5. Một số dự án thực tế sử dụng Microkernel (Plugin) Architecture 🛠</h2>
+<h2>🔹6. Một số dự án thực tế sử dụng Microkernel (Plugin) Architecture 🛠</h2>
 
 ![image](https://github.com/user-attachments/assets/ac567e3e-cff2-4490-aca7-dca15a1478c1)
 
 
-<h2>🔹6. Khi nào nên dùng Microkernel (Plugin)🤔</h2>
+<h2>🔹7. Khi nào nên dùng Microkernel (Plugin)🤔</h2>
 
 ![image](https://github.com/user-attachments/assets/67cc7896-fe92-4cd4-81e1-dddc6b810eb4)
 
